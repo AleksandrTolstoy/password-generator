@@ -1,3 +1,6 @@
+#!/usr/bin/python
+# -*- coding: UTF-8 -*-
+
 import requests
 from os.path import isfile
 from random import choice, randint
