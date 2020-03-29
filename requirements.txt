@@ -1,0 +1,5 @@
+aadict==0.2.3
+asset==0.6.13
+globre==0.1.5
+passwordmeter==0.1.8
+six==1.14.0
