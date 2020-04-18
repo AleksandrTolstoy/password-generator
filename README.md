@@ -1,4 +1,4 @@
-# password-generator
+# Password generator
 Simple password generator
 
 # How to run?
